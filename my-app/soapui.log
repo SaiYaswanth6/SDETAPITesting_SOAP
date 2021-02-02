@@ -1,0 +1,74 @@
+2021-02-02 13:12:52,739 WARN  [SoapUI] Missing folder [C:\Users\MCSaiYaswanth\Desktop\SDET\API Testing\API Project SOAP\my-app\ext] for external libraries
+2021-02-02 13:12:53,722 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\MCSaiYaswanth\soapui-settings.xml]
+2021-02-02 13:12:58,068 INFO  [WsdlProject] Loaded project from [file:/C:/Users/MCSaiYaswanth/Desktop/SDET/API%20Testing/API%20Project%20SOAP/my-app/API-Testing-Project-soapui-project.xml]
+2021-02-02 13:12:59,835 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [API Testing Project]
+2021-02-02 13:12:59,838 INFO  [SoapUITestCaseRunner] Running Project [API Testing Project], runType = SEQUENTIAL
+2021-02-02 13:12:59,922 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Automate End To End flow using Property  and property transfer]
+2021-02-02 13:12:59,968 INFO  [SoapUITestCaseRunner] running step [Properties]
+2021-02-02 13:13:00,136 INFO  [SoapUITestCaseRunner] running step [GetProductTypes]
+2021-02-02 13:13:01,728 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-02 13:13:01,728 INFO  [SoapUITestCaseRunner] running step [Property Transfer to Save]
+2021-02-02 13:13:02,362 INFO  [SoapUITestCaseRunner] running step [Save]
+2021-02-02 13:13:03,807 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-02 13:13:03,808 INFO  [SoapUITestCaseRunner] running step [GetList]
+2021-02-02 13:13:04,665 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-02 13:13:04,670 INFO  [SoapUITestCaseRunner] running step [Property Transfer for getbySKU]
+2021-02-02 13:13:04,688 INFO  [SoapUITestCaseRunner] running step [GetBySKU]
+2021-02-02 13:13:05,586 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-02 13:13:05,587 INFO  [SoapUITestCaseRunner] running step [Property Transfer for deletebySKU]
+2021-02-02 13:13:05,597 INFO  [SoapUITestCaseRunner] running step [DeleteBySKU]
+2021-02-02 13:13:06,778 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-02 13:13:06,795 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Automate End To End flow using Property  and property transfer], time taken: 6722ms, status: FINISHED
+2021-02-02 13:13:06,836 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Automate End to End flow using Property and Property Expansion]
+2021-02-02 13:13:06,844 INFO  [SoapUITestCaseRunner] running step [Properties]
+2021-02-02 13:13:06,845 INFO  [SoapUITestCaseRunner] running step [GetProductTypes]
+2021-02-02 13:13:07,605 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-02 13:13:07,617 INFO  [SoapUITestCaseRunner] running step [Save]
+2021-02-02 13:13:09,209 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-02 13:13:09,221 INFO  [SoapUITestCaseRunner] running step [GetList]
+2021-02-02 13:13:10,090 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-02 13:13:10,091 INFO  [SoapUITestCaseRunner] running step [GetBySKU]
+2021-02-02 13:13:11,200 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-02 13:13:11,200 INFO  [SoapUITestCaseRunner] running step [DeleteBySKU]
+2021-02-02 13:13:13,371 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-02 13:13:13,372 INFO  [SoapUITestCaseRunner] Assertion [Contains] has status VALID
+2021-02-02 13:13:13,375 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Automate End to End flow using Property and Property Expansion], time taken: 6450ms, status: FINISHED
+2021-02-02 13:13:13,430 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Automate End To End Flow using Property and Groovy Script]
+2021-02-02 13:13:13,450 INFO  [SoapUITestCaseRunner] running step [Groovy Script]
+2021-02-02 13:13:16,151 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Automate End to End flow using Property and Property Expansion]
+2021-02-02 13:13:16,187 INFO  [SoapUITestCaseRunner] running step [Properties]
+2021-02-02 13:13:16,189 INFO  [SoapUITestCaseRunner] running step [GetProductTypes]
+2021-02-02 13:13:16,924 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-02 13:13:16,930 INFO  [SoapUITestCaseRunner] running step [Save]
+2021-02-02 13:13:18,350 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-02 13:13:18,351 INFO  [SoapUITestCaseRunner] running step [GetList]
+2021-02-02 13:13:19,263 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-02 13:13:19,283 INFO  [SoapUITestCaseRunner] running step [GetBySKU]
+2021-02-02 13:13:20,258 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-02 13:13:20,259 INFO  [SoapUITestCaseRunner] running step [DeleteBySKU]
+2021-02-02 13:13:21,477 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-02 13:13:21,477 INFO  [SoapUITestCaseRunner] Assertion [Contains] has status VALID
+2021-02-02 13:13:21,486 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Automate End to End flow using Property and Property Expansion], time taken: 5235ms, status: FINISHED
+2021-02-02 13:13:21,657 INFO  [log] Status = FINISHED,time takem to complete the execution is 5235 mS
+2021-02-02 13:13:21,810 INFO  [log] Number of steps executed are 6
+2021-02-02 13:13:21,811 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Automate End To End Flow using Property and Groovy Script], time taken: 8354ms, status: FINISHED
+2021-02-02 13:13:22,246 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Automate End To End Flow Using Groovy Script]
+2021-02-02 13:13:22,328 INFO  [SoapUITestCaseRunner] running step [Groovy Script]
+2021-02-02 13:13:22,461 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Automate End to End flow using Property and Property Expansion]
+2021-02-02 13:13:22,464 INFO  [SoapUITestCaseRunner] running step [Properties]
+2021-02-02 13:13:22,496 INFO  [SoapUITestCaseRunner] running step [GetProductTypes]
+2021-02-02 13:13:23,259 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-02 13:13:23,259 INFO  [SoapUITestCaseRunner] running step [Save]
+2021-02-02 13:13:24,889 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-02 13:13:24,890 INFO  [SoapUITestCaseRunner] running step [GetList]
+2021-02-02 13:13:25,835 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-02 13:13:25,930 INFO  [SoapUITestCaseRunner] running step [GetBySKU]
+2021-02-02 13:13:27,055 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-02 13:13:27,067 INFO  [SoapUITestCaseRunner] running step [DeleteBySKU]
+2021-02-02 13:13:28,398 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-02 13:13:28,461 INFO  [SoapUITestCaseRunner] Assertion [Contains] has status VALID
+2021-02-02 13:13:28,482 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Automate End to End flow using Property and Property Expansion], time taken: 5619ms, status: FINISHED
+2021-02-02 13:13:28,553 INFO  [log] Status = FINISHED,time takem to complete the execution is 5619 mS
+2021-02-02 13:13:28,556 INFO  [log] Number of steps executed are 6
+2021-02-02 13:13:28,556 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Automate End To End Flow Using Groovy Script], time taken: 6222ms, status: FINISHED
+2021-02-02 13:13:28,559 INFO  [SoapUITestCaseRunner] Project [API Testing Project] finished with status [FINISHED] in 28708ms
